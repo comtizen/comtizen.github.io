@@ -1,0 +1,16 @@
+{
+  "schema": 2,
+  "id": "small-records",
+  "slug": "small-records",
+  "title": "작은 기록이 만드는 큰 변화",
+  "html": "<h2>기록은 나에게 돌아오는 길</h2><blockquote><p>잘 쓴 글보다, 내가 쓴 글이 쌓이는 것이 더 중요하다.</p></blockquote><p></p>",
+  "excerpt": "기록은 나에게 돌아오는 길 잘 쓴 글보다, 내가 쓴 글이 쌓이는 것이 더 중요하다.",
+  "tags": [
+    "일상",
+    "기록"
+  ],
+  "status": "published",
+  "createdAt": "2026-10-05T12:00:00.000Z",
+  "updatedAt": "2026-11-11T05:57:01.414Z",
+  "publishedAt": "2026-10-05T12:00:00.000Z"
+}
